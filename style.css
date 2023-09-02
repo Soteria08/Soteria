@@ -1,0 +1,129 @@
+.Nav-container{
+   
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+    
+    
+
+}
+.Nav-left{
+
+   
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+
+.Nav-left-logo{
+
+}
+
+.Nav-right{
+    
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.About{
+
+
+}
+
+.Contact{
+
+}
+
+.Gallery{
+
+}
+
+.overlay{
+    width: 100%;
+}
+
+#lay{
+    width: 100%;
+    height: 1000px;
+}
+
+.lay-text{
+    text-align: center;
+    color: aqua;
+}
+
+.section-one-grid{
+    text-align: center;
+}
+.section-one-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    text-transform: uppercase;
+}
+
+.section-one-paragraph{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 70px;
+    
+    
+}
+
+.mission-statement{
+    margin-left:25%;
+    width: 50%;
+    height: 600px;
+    
+       
+}
+
+.section-three-grid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.section-three-grid-img{
+    width: 300px;
+    height: 300px;
+    border-width: 0px 10px 20px 30px solid black;
+}
+
+.section-four{
+    text-align: center;
+    
+}
+
+.section-four-list > ul{
+    list-style: none;
+}
+
+.section-five{
+    background-color: aqua;
+}
+
+.address-contact{
+    justify-content: left
+    display: flex
+    
+    
+}
+
+.social-media-link{
+    justify-content: center;
+    gap: 15px;
+    display: flex;
+}
+
+.Newsletter{
+    text-align: center;
+}
+
